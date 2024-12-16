@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version: "1.0"
+
+
+extra:
+  message: "Welcome to FastBook QA env"
+  contactDetails:
+    name: "Kike QA - QA Lead"
+    email: "kikeqa@fastbook.com"
+  onCallSupport:
+    - (555) 265-1234
+    - (555) 423-1345

@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "2.0"
+
+
+extra:
+  message: "Welcome to FastBook PROD env "
+  contactDetails:
+    name: "Kike Boss - Prod Lead"
+    email: "kikeboss@fastbook.com"
+  onCallSupport:
+    - (555) 265-1234
+    - (555) 423-1345
