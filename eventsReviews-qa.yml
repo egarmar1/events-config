@@ -1,6 +1,8 @@
 build:
   version: "1.0"
 
+event-reviews:
+  defaultTime: "GMT"
 
 extra:
   message: "Welcome to FastBook QA env"
