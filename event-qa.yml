@@ -4,7 +4,7 @@ build:
 
 
 extra:
-  message: "Welcome to FastBook QA env"
+  message: "Welcome to FastBook event QA env"
   contactDetails:
     name: "Kike QA - QA Lead"
     email: "kikeqa@fastbook.com"
