@@ -8,6 +8,7 @@ extra:
   contactDetails:
     name: "Kike QA - QA Lead"
     email: "kikeqa@fastbook.com"
+    contraseña: "{cipher}1f35616ed23515177b02dd6e9dbfa1d04195e95310bc06e20537ed478a2c2017ba0e8b15940865c35de671e24318ee75"
   onCallSupport:
     - (555) 265-1234
     - (555) 423-1345
