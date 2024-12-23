@@ -4,7 +4,7 @@ build:
 
 
 extra:
-  message: "Welcome to FastBook PROD env "
+  message: "Welcome to FastBook PROD environment "
   contactDetails:
     name: "Kike Boss - Prod Lead"
     email: "kikeboss@fastbook.com"
