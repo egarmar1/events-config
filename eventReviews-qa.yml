@@ -5,7 +5,7 @@ event-reviews:
   defaultTime: "GMT"
 
 extra:
-  message: "Welcome to FastBook QA env"
+  message: "Welcome to FastBook QA environment"
   contactDetails:
     name: "Kike QA - QA Lead"
     email: "kikeqa@fastbook.com"
